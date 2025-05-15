@@ -10,7 +10,7 @@ body{
 }
 
 main{
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.342);
     width: 500px;
     margin: auto;
     padding: 10px;
